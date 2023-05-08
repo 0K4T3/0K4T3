@@ -8,9 +8,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@0K4T3_256-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0K4T3_256)](https://twitter.com/0K4T3_256)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keito-osaki-425a0819b)](https://www.linkedin.com/in/keito-osaki-425a0819b)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o.keito317@gmail.com)](o.keito317@gmail.com)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0kate&theme=transparent)<br />
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0kate&theme=transparent)
+    
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0kate&theme=transparent)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0kate&theme=transparent&exclude=CSS,emacs,vim)
 
 </div>
