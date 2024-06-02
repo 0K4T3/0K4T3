@@ -10,6 +10,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o.keito317@gmail.com)](o.keito317@gmail.com)
     
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0kate&theme=transparent)
-![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0kate&theme=transparent&exclude=CSS,emacs,vim)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0kate&theme=transparent&exclude=CSS,emacs,vim)
 
 </div>
